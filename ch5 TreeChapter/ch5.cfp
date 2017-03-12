@@ -1,20 +1,40 @@
 <Project version="3.0">
-<Name>StackProject</Name>
+<Name>ch5</Name>
 <Type>CUI</Type>
-<TargetName>StackProject</TargetName>
+<TargetName>ch5</TargetName>
 <TargetType>exe</TargetType>
 <Folder name="Source Files">
-	<File>main.c</File>
+	<File>ALGO5-1.c</File>
+	<File>BO5-1.C</File>
+	<File>BO5-2.c</File>
+	<File>BO5-3.c</File>
+	<File>BO5-4.c</File>
+	<File>BO5-5.c</File>
+	<File>Bo5-6.c</File>
+	<File>BO5-51.c</File>
+	<File>BO5-52.c</File>
+	<File>MAIN5-1.C</File>
+	<File>MAIN5-2.c</File>
+	<File>MAIN5-3.c</File>
+	<File>MAIN5-4.c</File>
+	<File>Main5-6.c</File>
+	<File>MAIN5-51.c</File>
+	<File>MAIN5-52.c</File>
 </Folder>
 <Folder name="Header Files">
+	<File>C5-1.H</File>
+	<File>C5-2.H</File>
+	<File>C5-3.H</File>
+	<File>C5-4.H</File>
+	<File>C5-5.H</File>
+	<File>C5-6.H</File>
 </Folder>
 <Folder name="Other Files">
 </Folder>
-<Attribute topline="1" x="2" y="6">main.c</Attribute>
 <FolderState>111</FolderState>
 <DefConfig>mingw5</DefConfig>
 <Builder name="mingw5" type="MinGW" version="1.0" changed="1">
-	<TargetName>StackProject</TargetName>
+	<TargetName>ch5</TargetName>
 	<TargetType>exe</TargetType>
 	<TargetDir>mingw5</TargetDir>
 	<InterimDir>mingw5</InterimDir>

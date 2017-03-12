@@ -1,33 +1,35 @@
 <Project version="3.0">
-<Name>StringChapter</Name>
+<Name>ch4</Name>
 <Type>CUI</Type>
-<TargetName>StringChapter</TargetName>
+<TargetName>ch4</TargetName>
 <TargetType>exe</TargetType>
+<Folder name="Source Files">
 	<File>ALGO4-1.c</File>
 	<File>ALGO4-2.c</File>
 	<File>algo4-3.c</File>
 	<File>ALGO4-4.c</File>
 	<File>ALGO4-5.c</File>
+	<File>BO2-6.c</File>
 	<File>BO4-1.C</File>
 	<File>Bo4-2.c</File>
 	<File>BO4-3.c</File>
 	<File>MAIN4-1.c</File>
 	<File>MAIN4-2.c</File>
 	<File>Main4-3.c</File>
+</Folder>
+<Folder name="Header Files">
+	<File>c1.h</File>
+	<File>C2-5.H</File>
 	<File>C4-1.H</File>
 	<File>C4-2.H</File>
 	<File>C4-3.H</File>
-	<File>BO2-6.c</File>
-	<File>c1.h</File>
-	<File>C2-5.H</File>
-<Attribute topline="1" x="26" y="11">BO4-1.C</Attribute>
-<Attribute topline="1" x="19" y="5">Main4-3.c</Attribute>
-<Attribute topline="1" x="1" y="4">C4-1.H</Attribute>
-<Attribute topline="1" x="9" y="7">C4-3.H</Attribute>
-<FolderState></FolderState>
+</Folder>
+<Folder name="Other Files">
+</Folder>
+<FolderState>111</FolderState>
 <DefConfig>mingw5</DefConfig>
-<Builder name="mingw5" type="MinGW" version="1.0">
-	<TargetName>StringChapter</TargetName>
+<Builder name="mingw5" type="MinGW" version="1.0" changed="1">
+	<TargetName>ch4</TargetName>
 	<TargetType>exe</TargetType>
 	<TargetDir>mingw5</TargetDir>
 	<InterimDir>mingw5</InterimDir>
