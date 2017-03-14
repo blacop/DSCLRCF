@@ -27,9 +27,15 @@
 	<File>C6-5.H</File>
 	<File>c6-6.h</File>
 	<File>c6-7.h</File>
+	<File>c1.h</File>
 </Folder>
 <Folder name="Other Files">
 </Folder>
+<Attribute topline="1" x="1" y="4">ALGO6-1.c</Attribute>
+<Attribute topline="1" x="18" y="3">algo6-2.c</Attribute>
+<Attribute topline="1" x="2" y="1">bo6-2.c</Attribute>
+<Attribute topline="1" x="1" y="7">C6-2.H</Attribute>
+<Attribute topline="1" x="34" y="10">c1.h</Attribute>
 <FolderState>111</FolderState>
 <DefConfig>mingw5</DefConfig>
 <Builder name="mingw5" type="MinGW" version="1.0" changed="1">

@@ -4,11 +4,37 @@
 <TargetName>TreeChapter</TargetName>
 <TargetType>exe</TargetType>
 <Folder name="Source Files">
+	<File>ALGO6-1.c</File>
+	<File>algo6-2.c</File>
+	<File>BO6-1.c</File>
+	<File>bo6-2.c</File>
+	<File>BO6-3.c</File>
+	<File>Bo6-4.c</File>
+	<File>Bo6-5.c</File>
+	<File>bo6-6.c</File>
+	<File>Main6-1.c</File>
+	<File>Main6-2.c</File>
+	<File>MAIN6-3.c</File>
+	<File>MAIN6-4.c</File>
+	<File>MAIN6-5.c</File>
+	<File>main6-6.c</File>
 </Folder>
 <Folder name="Header Files">
+	<File>c1.h</File>
+	<File>C6-1.H</File>
+	<File>C6-2.H</File>
+	<File>C6-3.H</File>
+	<File>C6-4.H</File>
+	<File>C6-5.H</File>
+	<File>c6-6.h</File>
+	<File>c6-7.h</File>
 </Folder>
 <Folder name="Other Files">
 </Folder>
+<Attribute topline="1" x="30" y="6">BO6-1.c</Attribute>
+<Attribute topline="4" x="20" y="19">c1.h</Attribute>
+<Attribute topline="1" x="22" y="2">C6-1.H</Attribute>
+<Attribute topline="1" x="26" y="5">C6-2.H</Attribute>
 <FolderState>111</FolderState>
 <DefConfig>mingw5</DefConfig>
 <Builder name="mingw5" type="MinGW" version="1.0" changed="1">
