@@ -18,6 +18,7 @@
 	<File>MAIN6-4.c</File>
 	<File>MAIN6-5.c</File>
 	<File>main6-6.c</File>
+	<File>BTBLink.cpp</File>
 </Folder>
 <Folder name="Header Files">
 	<File>C6-1.H</File>
@@ -31,9 +32,11 @@
 </Folder>
 <Folder name="Other Files">
 </Folder>
-<Attribute topline="1" x="1" y="4">ALGO6-1.c</Attribute>
+<Attribute topline="1" x="39" y="10">ALGO6-1.c</Attribute>
 <Attribute topline="1" x="18" y="3">algo6-2.c</Attribute>
-<Attribute topline="1" x="2" y="1">bo6-2.c</Attribute>
+<Attribute topline="10" x="46" y="24">bo6-2.c</Attribute>
+<Attribute topline="1" x="10" y="5">Main6-1.c</Attribute>
+<Attribute topline="83" x="11" y="99">BTBLink.cpp</Attribute>
 <Attribute topline="1" x="1" y="7">C6-2.H</Attribute>
 <Attribute topline="1" x="34" y="10">c1.h</Attribute>
 <FolderState>111</FolderState>
